@@ -2,10 +2,10 @@
 
 ¡Bienvenido/a! Este repositorio recopila mis proyectos personales y académicos. Aquí encontrarás información sobre lo que he desarrollado, las tecnologías que utilizo y el estado actual de cada proyecto
 
-## **Sobre mí**
+## ***Sobre mí***
 
 
-## **Tecnologías**
+## ***Tecnologías***
 
 
-## **Proyectos**
+## ***Proyectos***
