@@ -7,8 +7,11 @@ Soy estudiante/desarrollador con interés en el desarrollo web, inteligencia art
 
 ## ***Tecnologías***
 Estas son algunas de las herramientas y tecnologías que utilizo en mis proyectos:
+
 **1. Lenguajes:** Python, Java, HTML, CSS, JavaScript
+
 **2. Bases de datos:** MySQL
+
 **3. Otros:** Git, Github
 
 ## ***Proyectos***
