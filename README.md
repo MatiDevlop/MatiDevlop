@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Matías Morocho
 
 <div align="center">
-  <img src="https://i.pinimg.com/236x/8b/b5/e2/8bb5e227b4374a9d99f34e912cf45334.jpg" alt="Intro" width="400"/>
+  <img src="https://i.pinimg.com/236x/8b/b5/e2/8bb5e227b4374a9d99f34e912cf45334.jpg" alt="Intro" width="500"/>
 </div>
 
 ## 👨‍💻 ***Sobre mí***
@@ -9,6 +9,7 @@
 Soy estudiante universitario de **Ingeniería en Ciencias de la Computación**, orientado al desarrollo de soluciones tecnológicas. Me apasiona aprender nuevas tecnologías y aplicar mis conocimientos en proyectos reales y desafiantes.
 
 Mis principales intereses son el **desarrollo web**, la **inteligencia artificial** y la **ciencia de datos**. 
+
 
 
 
