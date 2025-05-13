@@ -14,7 +14,7 @@ Mis principales intereses son el **desarrollo web**, la **inteligencia artificia
 
 Estas son algunas de las herramientas y tecnologías que utilizo en mis proyectos:
 
-  ### 🗣️ Lenguajes de programación
+### 🗣️ Lenguajes de programación
 
 <div align="center">
 
@@ -30,7 +30,7 @@ Estas son algunas de las herramientas y tecnologías que utilizo en mis proyecto
     
 ---
 
-  ### 🗃️ Bases de datos
+### 🗃️ Bases de datos
 
 <div align="center">
     
@@ -40,7 +40,7 @@ Estas son algunas de las herramientas y tecnologías que utilizo en mis proyecto
     
 ---
 
-  ### 💻 Sistemas operativos
+### 💻 Sistemas operativos
 
 <div align="center">
     
@@ -51,7 +51,7 @@ Estas son algunas de las herramientas y tecnologías que utilizo en mis proyecto
     
 ---
 
-  ### 📚 Librerías y herramientas
+### 📚 Librerías y herramientas
 
 <div align="center">
     
