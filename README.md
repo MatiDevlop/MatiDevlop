@@ -71,6 +71,14 @@ Estos son algunos de los proyectos que he realizado en el transucrso de mi carre
 
 ## ***Contacto***
 
-[![Gmail](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg)](mailto:morochokevin64@gmail.com)
-[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/matias-morocho-5a2435252)
-[![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)](https://github.com/MatiDevlop)
+<div align="center">
+  <a href="mailto:tuemail@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40px" />
+  </a>
+  <a href="https://www.linkedin.com/in/tuusuario/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px" />
+  </a>
+  <a href="https://github.com/tuusuario">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px" />
+  </a>
+</div>
