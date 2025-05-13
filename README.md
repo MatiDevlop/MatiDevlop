@@ -16,6 +16,8 @@ Estas son algunas de las herramientas y tecnologías que utilizo en mis proyecto
 
 ### 🗣️ Lenguajes de programación
 
+Trabajo con varios lenguajes de programación orientados a diferentes propósitos. Desde el desarrollo web hasta la automatización y análisis de datos, estas tecnologías me permiten implementar soluciones funcionales, escalables y robustas.
+
 <div align="center">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -32,6 +34,8 @@ Estas son algunas de las herramientas y tecnologías que utilizo en mis proyecto
 
 ### 🗃️ Bases de datos
 
+Uso sistemas de gestión de bases de datos como **MySQL** para estructurar, almacenar y consultar información de forma organizada y segura, aplicando buenas prácticas de modelado y normalización.
+
 <div align="center">
     
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
@@ -41,6 +45,8 @@ Estas son algunas de las herramientas y tecnologías que utilizo en mis proyecto
 ---
 
 ### 💻 Sistemas operativos
+
+Me desenvuelvo en entornos **Windows** y **Linux**, tanto para desarrollo como para administración básica del sistema. Esto me permite adaptar mis proyectos a distintas plataformas y configuraciones de trabajo.
 
 <div align="center">
     
@@ -52,6 +58,8 @@ Estas son algunas de las herramientas y tecnologías que utilizo en mis proyecto
 ---
 
 ### 📚 Librerías y herramientas
+
+Utilizo estas herramientas en proyectos relacionados con **Ciencia de Datos**. Me permiten procesar, analizar y visualizar información de manera eficiente, facilitando la detección de patrones y la generación de *insights* útiles para la toma de decisiones estratégicas.
 
 <div align="center">
     
@@ -75,7 +83,7 @@ Estas son algunas de las herramientas y tecnologías que utilizo en mis proyecto
     <tbody>
       <tr>
         <td>Adivinanza de animales</td>
-        <td>Juego de decisión tipo 20 preguntas usando estructuras de datos como árboles binarios para la toma de desiciones en base a las respuestas del usuario</td>
+        <td>Juego de decisión tipo 20 preguntas realizado en Java usando estructuras de datos como árboles binarios para la toma de desiciones en base a las respuestas del usuario</td>
         <td><a href="https://github.com/MatiDevlop/AnimalDecisionTree.git">Ver proyecto</a></td>
       </tr>
       <tr>
