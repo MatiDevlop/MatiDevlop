@@ -68,6 +68,7 @@ Estos son algunos de los proyectos que he realizado en el transucrso de mi carre
 
 - [Adivinanza de animales](https://github.com/MatiDevlop/AnimalDecisionTree.git)
 - [Curso de Git y Github by Mouredev](https://github.com/MatiDevlop/hello-git-p.git)
+- [Dashboard con Python](https://github.com/MatiDevlop/Dashboard.git)
 
 ## ***Contacto***
 
