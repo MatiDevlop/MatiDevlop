@@ -72,13 +72,13 @@ Estos son algunos de los proyectos que he realizado en el transucrso de mi carre
 ## ***Contacto***
 
 <div align="center">
-  <a href="mailto:tuemail@gmail.com">
+  <a href="mailto:morochokevin64@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40px" />
   </a>
-  <a href="https://www.linkedin.com/in/tuusuario/">
+  <a href="https://www.linkedin.com/in/matias-morocho-5a2435252/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px" />
   </a>
-  <a href="https://github.com/tuusuario">
+  <a href="https://github.com/MatiDevlop">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px" />
   </a>
 </div>
