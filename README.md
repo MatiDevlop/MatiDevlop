@@ -64,10 +64,10 @@ Estas son algunas de las herramientas y tecnologías que utilizo en mis proyecto
 
 ## 🚀 ***Proyectos***
 <div align="center">
-  <table border="2" cellpadding="10" cellspacing="0">
+  <table border="2" cellpadding="10" cellspacing="0">    
     <thead>
-      <tr>
-        <th>Proyecto</th>
+      <tr style="background-color: #f0f0f0; font-weight: bold;">
+        <th>Titulo</th>
         <th>Descripción</th>
         <th>Enlace</th>
       </tr>
