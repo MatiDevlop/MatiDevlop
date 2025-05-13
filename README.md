@@ -67,5 +67,5 @@ Estas son algunas de las herramientas y tecnologías que utilizo en mis proyecto
 
 ## ***Contacto***
 - 📧 **Email:** [morochokevin64@gmail.com](mailto:morochokevin64@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/tuusuario](https://www.linkedin.com/in/tuusuario)
-- 🐙 **GitHub:** [github.com/tuusuario](https://github.com/tuusuario)
+- 💼 **LinkedIn:** [linkedin.com/in/linkedin.com/in/matias-morocho-5a2435252](https://www.linkedin.com/in/matias-morocho-5a2435252)
+- 🐙 **GitHub:** [github.com/MatiDevlop](https://github.com/MatiDevlop)
