@@ -1,6 +1,8 @@
 # 👋 ¡Hola! Soy Matías Morocho
 
-![Intro](https://i.pinimg.com/236x/8b/b5/e2/8bb5e227b4374a9d99f34e912cf45334.jpg)
+<div align="center">
+  <img src="https://i.pinimg.com/236x/8b/b5/e2/8bb5e227b4374a9d99f34e912cf45334.jpg" alt="Intro" width="400"/>
+</div>
 
 ## 👨‍💻 ***Sobre mí***
 
