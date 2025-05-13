@@ -75,17 +75,17 @@ Estas son algunas de las herramientas y tecnologías que utilizo en mis proyecto
     <tbody>
       <tr>
         <td>Adivinanza de animales</td>
-        <td>Juego de decisión tipo 20 preguntas</td>
+        <td>Juego de decisión tipo 20 preguntas usando estructuras de datos como árboles binarios para la toma de desiciones en base a las respuestas del usuario</td>
         <td><a href="https://github.com/MatiDevlop/AnimalDecisionTree.git">Ver proyecto</a></td>
       </tr>
       <tr>
         <td>Curso Git y GitHub</td>
-        <td>Curso realizado con Mouredev</td>
+        <td>Curso realizado por Mouredev para principiantes, como muestra de aprendizaje se realizo un Fork y posterior un Pull Request</td>
         <td><a href="https://github.com/MatiDevlop/hello-git-p.git">Ver proyecto</a></td>
       </tr>
       <tr>
         <td>Dashboard con Python</td>
-        <td>Análisis de datos con visualización</td>
+        <td>Análisis de datos con visualización usando librerías como NumPy y Pandas, para identificar patrones en el caso dado de manera mas interactiva.</td>
         <td><a href="https://github.com/MatiDevlop/Dashboard.git">Ver proyecto</a></td>
       </tr>
     </tbody>
