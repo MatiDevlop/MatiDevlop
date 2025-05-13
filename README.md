@@ -1,5 +1,6 @@
 # 👋 ¡Hola! Soy Matías Morocho
 
+
 ## 👨‍💻 ***Sobre mí***
 
 Soy estudiante universitario de **Ingeniería en Ciencias de la Computación**, orientado al desarrollo de soluciones tecnológicas. Me apasiona aprender nuevas tecnologías y aplicar mis conocimientos en proyectos reales y desafiantes.
