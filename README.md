@@ -64,6 +64,9 @@ Estas son algunas de las herramientas y tecnologías que utilizo en mis proyecto
 
 ## ***Proyectos***
 
+Estos son algunos de los proyectos que he realizado en el transucrso de mi carrera:
+
+- [Adivinanza de animales](https://github.com/MatiDevlop/AnimalDecisionTree.git)
 
 ## ***Contacto***
 - 📧 **Email:** [morochokevin64@gmail.com](mailto:morochokevin64@gmail.com)
