@@ -1,7 +1,7 @@
 # ¡Hola! Soy Matías Morocho
 
 <div align="center">
-  <img src="https://i.pinimg.com/236x/8b/b5/e2/8bb5e227b4374a9d99f34e912cf45334.jpg" alt="Intro" style="width:50%;"/>
+  <img src="https://i.pinimg.com/236x/8b/b5/e2/8bb5e227b4374a9d99f34e912cf45334.jpg" width="300px"/>
 </div>
 
 ## 👨‍💻 ***Sobre mí***
@@ -64,7 +64,7 @@ Estas son algunas de las herramientas y tecnologías que utilizo en mis proyecto
 
 ## 🚀 ***Proyectos***
 
-Estos son algunos de los proyectos que he realizado en el transucrso de mi carrera:
+Estos son algunos de los proyectos que he realizado en el transcurso de mi carrera:
 
 - [Adivinanza de animales](https://github.com/MatiDevlop/AnimalDecisionTree.git)
 - [Curso de Git y Github by Mouredev](https://github.com/MatiDevlop/hello-git-p.git)
