@@ -7,7 +7,7 @@ Soy estudiante universitario de **Ingeniería en Ciencias de la Computación**, 
 
 Mis principales intereses son el **desarrollo web**, la **inteligencia artificial** y la **ciencia de datos**. 
 
-## ***Tecnologías***
+## 🧰***Tecnologías***
 
 Estas son algunas de las herramientas y tecnologías que utilizo en mis proyectos:
 
@@ -24,6 +24,19 @@ Estas son algunas de las herramientas y tecnologías que utilizo en mis proyecto
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 
 </div>
+
+---
+
+### 🗃️ Bases de datos
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+
+</div>
+
+---
+
 
 
 ## ***Proyectos***
