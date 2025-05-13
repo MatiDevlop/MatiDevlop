@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Matías Morocho
+![intro](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVMnhe7eqmtMN6efVN8GBidyKip4WSHOR80i37rZqCpywIDjfaZ7qx1XwzdjCJJKQMDqg&usqp=CAU)  # ¡Hola! Soy Matías Morocho
 
 <div align="center">
   <img src="https://i.pinimg.com/236x/8b/b5/e2/8bb5e227b4374a9d99f34e912cf45334.jpg" alt="Intro" style="width:50%;"/>
@@ -66,3 +66,6 @@ Estas son algunas de las herramientas y tecnologías que utilizo en mis proyecto
 
 
 ## ***Contacto***
+- 📧 **Email:** [morochokevin64@gmail.com](mailto:morochokevin64@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/tuusuario](https://www.linkedin.com/in/tuusuario)
+- 🐙 **GitHub:** [github.com/tuusuario](https://github.com/tuusuario)
