@@ -10,6 +10,8 @@ Soy estudiante universitario de **Ingeniería en Ciencias de la Computación**, 
 
 Mis principales intereses son el **desarrollo web**, la **inteligencia artificial** y la **ciencia de datos**. 
 
+
+
 ## 🧰***Tecnologías***
 
 Estas son algunas de las herramientas y tecnologías que utilizo en mis proyectos:
@@ -63,4 +65,9 @@ Estas son algunas de las herramientas y tecnologías que utilizo en mis proyecto
 </div>
 
 
+
 ## ***Proyectos***
+
+
+
+## ***Contacto***
