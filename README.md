@@ -10,7 +10,7 @@ Soy estudiante universitario de **Ingeniería en Ciencias de la Computación**, 
 
 Mis principales intereses son el **desarrollo web**, la **inteligencia artificial** y la **ciencia de datos**. 
 
-## 🧰***Tecnologías***
+## 🧰 ***Tecnologías***
 
 Estas son algunas de las herramientas y tecnologías que utilizo en mis proyectos:
 
@@ -62,7 +62,7 @@ Estas son algunas de las herramientas y tecnologías que utilizo en mis proyecto
     
 </div>
 
-## ***Proyectos***
+## 🚀 ***Proyectos***
 
 Estos son algunos de los proyectos que he realizado en el transucrso de mi carrera:
 
@@ -70,7 +70,7 @@ Estos son algunos de los proyectos que he realizado en el transucrso de mi carre
 - [Curso de Git y Github by Mouredev](https://github.com/MatiDevlop/hello-git-p.git)
 - [Dashboard con Python](https://github.com/MatiDevlop/Dashboard.git)
 
-## ***Contacto***
+## 📞 ***Contacto***
 
 <div align="center">
   <a href="mailto:morochokevin64@gmail.com">
