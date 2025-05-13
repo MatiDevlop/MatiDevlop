@@ -63,10 +63,34 @@ Estas son algunas de las herramientas y tecnologías que utilizo en mis proyecto
 </div>
 
 ## 🚀 ***Proyectos***
-
-- [Adivinanza de animales](https://github.com/MatiDevlop/AnimalDecisionTree.git)
-- [Curso de Git y Github by Mouredev](https://github.com/MatiDevlop/hello-git-p.git)
-- [Dashboard con Python](https://github.com/MatiDevlop/Dashboard.git)
+<div align="center">
+  <table border="2" cellpadding="10" cellspacing="0">
+    <thead>
+      <tr>
+        <th>Proyecto</th>
+        <th>Descripción</th>
+        <th>Enlace</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Adivinanza de animales</td>
+        <td>Juego de decisión tipo 20 preguntas</td>
+        <td><a href="https://github.com/MatiDevlop/AnimalDecisionTree.git">Ver proyecto</a></td>
+      </tr>
+      <tr>
+        <td>Curso Git y GitHub</td>
+        <td>Curso realizado con Mouredev</td>
+        <td><a href="https://github.com/MatiDevlop/hello-git-p.git">Ver proyecto</a></td>
+      </tr>
+      <tr>
+        <td>Dashboard con Python</td>
+        <td>Análisis de datos con visualización</td>
+        <td><a href="https://github.com/MatiDevlop/Dashboard.git">Ver proyecto</a></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ## 📞 ***Contacto***
 
