@@ -64,8 +64,6 @@ Estas son algunas de las herramientas y tecnologías que utilizo en mis proyecto
 
 ## 🚀 ***Proyectos***
 
-Estos son algunos de los proyectos que he realizado en el transcurso de mi carrera:
-
 - [Adivinanza de animales](https://github.com/MatiDevlop/AnimalDecisionTree.git)
 - [Curso de Git y Github by Mouredev](https://github.com/MatiDevlop/hello-git-p.git)
 - [Dashboard con Python](https://github.com/MatiDevlop/Dashboard.git)
