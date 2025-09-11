@@ -54,7 +54,7 @@ Utilizo estas herramientas en proyectos relacionados con **Ciencia de Datos**. M
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,figma" />
+    <img src="https://skillicons.dev/icons?i=git,figma,postman" />
   </a>
 </p>
 
