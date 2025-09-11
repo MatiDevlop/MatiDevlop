@@ -28,11 +28,11 @@ Trabajo con varios lenguajes de programación orientados a diferentes propósito
 
 Uso sistemas de gestión de bases de datos como **MySQL** para estructurar, almacenar y consultar información de forma organizada y segura, aplicando buenas prácticas de modelado y normalización.
 
-<div align="center">
-    
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-    
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  </a>
+</p>
     
 ---
 
@@ -48,32 +48,27 @@ Me desenvuelvo en entornos **Windows** y **Linux**, tanto para desarrollo como p
     
 ---
 
-### 📚 Librerías y herramientas
+### 🛠 Herramientas
 
 Utilizo estas herramientas en proyectos relacionados con **Ciencia de Datos**. Me permiten procesar, analizar y visualizar información de manera eficiente, facilitando la detección de patrones y la generación de *insights* útiles para la toma de decisiones estratégicas.
 
-<div align="center">
-    
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,figma" />
+  </a>
+</p>
 
 ---
 
-### ⚛️ Frameworks y estilos
+### ⚛️ Frameworks
 
 En el desarrollo de interfaces modernas y responsivas, utilizo los siguientes frameworks. Me permiten construir aplicaciones escalables, con un diseño atractivo y una estructura mantenible.
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,tailwind,react,angular,express" />
+  </a>
+</p>
 
 
 ## 🚀 ***Proyectos***
