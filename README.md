@@ -93,9 +93,9 @@ En el desarrollo de interfaces modernas y responsivas, utilizo los siguientes fr
         <td><a href="https://github.com/MatiDevlop/hello-git-p.git">Ver proyecto</a></td>
       </tr>
       <tr>
-        <td>Dashboard con Python</td>
-        <td>Análisis de datos con visualización usando librerías como NumPy y Pandas, para identificar patrones en el caso dado de manera mas interactiva.</td>
-        <td><a href="https://github.com/MatiDevlop/Dashboard.git">Ver proyecto</a></td>
+        <td>Dashboard </td>
+        <td>Aplicación web desarrollada en React que integra la API de OpenMeteo para mostrar datos climáticos en tiempo real. Los datos se actualizan dinámicamente al seleccionar una ciudad, con visualización mediante gráficos interactivos y diseño responsivo.</td></td>
+        <td><a href="https://github.com/MatiDevlop/dashboard.git">Ver proyecto</a></td>
       </tr>
     </tbody>
   </table>
