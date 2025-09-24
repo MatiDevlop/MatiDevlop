@@ -83,14 +83,14 @@ En el desarrollo de interfaces modernas y responsivas, utilizo los siguientes fr
     </thead>
     <tbody>
       <tr>
-        <td>Adivinanza de animales</td>
-        <td>Juego de decisión tipo 20 preguntas realizado en Java usando estructuras de datos como árboles binarios para la toma de desiciones en base a las respuestas del usuario</td>
-        <td><a href="https://github.com/MatiDevlop/AnimalDecisionTree.git">Ver proyecto</a></td>
+        <td>DataMonitor Admin</td>
+        <td>Aplicación desarrollada en Django con conexión a MySQL que implementa autenticación y autorización de usuarios. Incluye un panel de administración mediante Django Admin y visualización de analíticas para la gestión de datos.</td>
+        <td><a href="https://github.com/MatiDevlop/django_data_monitor.git">Ver proyecto</a></td>
       </tr>
       <tr>
-        <td>Curso Git y GitHub</td>
-        <td>Curso realizado por Mouredev para principiantes, como muestra de aprendizaje se realizo un Fork y posterior un Pull Request</td>
-        <td><a href="https://github.com/MatiDevlop/hello-git-p.git">Ver proyecto</a></td>
+        <td>API RESTful para Landing Page</td>
+        <td>Proyecto desarrollado con Django REST Framework que implementa una API RESTful para una landing page. Incluye renderizado del lado del servidor (SSR) y vinculación con Firebase Realtime Database para gestionar y sincronizar datos en tiempo real con el frontend.</td>
+        <td><a href="https://github.com/MatiDevlop/django_api_suite.git">Ver proyecto</a></td>
       </tr>
       <tr>
         <td>Dashboard </td>
