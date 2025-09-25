@@ -5,9 +5,11 @@
 </div>
 
 ## 👨‍💻 Sobre mí
-Soy estudiante universitario de **Ingeniería en Ciencias de la Computación**, orientado al desarrollo de soluciones tecnológicas. Me apasiona aprender nuevas tecnologías y aplicar mis conocimientos en proyectos reales y desafiantes.
+Soy estudiante de **Ingeniería en Ciencias de la Computación**, apasionado por el desarrollo de software y el aprendizaje constante.  
 
-Mis principales intereses son el **desarrollo web**, la **inteligencia artificial** y la **ciencia de datos**. 
+Me interesa especialmente el **desarrollo web**, la **inteligencia artificial** y la **ciencia de datos**. Busco crear soluciones tecnológicas que sean útiles, escalables y de impacto real.  
+
+Actualmente trabajo con proyectos en **backend con Django**, **frontend con React** y **análisis de datos con Python**.  
 
 ## 🧰 ***Tecnologías***
 
